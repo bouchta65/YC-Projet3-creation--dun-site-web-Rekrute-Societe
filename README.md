@@ -25,3 +25,4 @@ Accédez à notre maquette sur Figma ici : [Maquette Rekrute - 3M2S Group](https
 ---
 
 Ce projet nous permet de pratiquer nos compétences en **design UX/UI** et en **développement web**, en utilisant des technologies modernes pour un site web responsive et interactif.
+
